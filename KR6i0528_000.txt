@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說諸法勇王經
+#+DATE: 2015-08-30 20:21:52.262383
+#+PROPERTY: JUAN 0
